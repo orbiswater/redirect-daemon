@@ -1,5 +1,5 @@
 build_settings:
-  build_image: "custom"
+  build_image: "nginx"
   environment_variables: []
   container_port: 80
 services: {}
