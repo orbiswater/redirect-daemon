@@ -1,6 +1,5 @@
 build_settings:
   build_image: "custom"
-  dockerfile: "Dockerfile"
   environment_variables: []
   container_port: 80
 services: {}
